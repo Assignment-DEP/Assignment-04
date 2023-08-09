@@ -1,9 +1,9 @@
 public class Assignment04B2{
     public static void main(String[] args) {
         int a = 0;
-        int e =1;
+        int e =0;
         int b = 7;
-        while(7>(2*a-1)&&((e<=(2*a-1))||b>0)){
+        while(e++<4){
             int k = 0;
             while(k<7){
                 if((b-(2*a-1))==8){
